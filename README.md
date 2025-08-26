@@ -16,6 +16,7 @@
     <h2>🚀 Projects Included</h2>
     <ul>
       <li>❤️ <strong>Heart Disease Prediction</strong> – Predict the likelihood of heart disease using logistic regression.</li>
+      <li>🎬 <strong>Movie Recommendation System</strong> – Recommend movies to users based on collaborative filtering and similarity measures.</li>
     </ul>
     <p><em>(More projects will be added as I continue learning and building!)</em></p>
   </div>
@@ -37,6 +38,11 @@
 │   │   │-- data.csv
 │   │   │-- Heart Disease Prediction.ipynb
 │   │   │-- google_colab_link.txt
+│-- Recommendation_Systems/
+│   │-- Movie_Recommendation_System/
+│   │   │-- movies.csv
+│   │   │-- Movie Recommendation System.ipynb
+│   │   │-- google_colab_link.txt
 │-- README.md
 </code></pre>
   </div>
@@ -46,6 +52,7 @@
     <ul>
       <li>Apply <strong>machine learning algorithms</strong> to solve practical problems.</li>
       <li>Understand <strong>data preprocessing, feature engineering, and evaluation metrics</strong>.</li>
+      <li>Explore <strong>recommendation systems</strong> and their real-world applications.</li>
     </ul>
   </div>
 
@@ -59,7 +66,7 @@
   <div class="section">
     <h2>📬 Contact</h2>
     <ul>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/okadini-kdi-1ab820336" target="_blank">Okadini Kdi</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/okadini-kdi" target="_blank">Okadini Kdi</a></li>
       <li><strong>Email:</strong> <a href="mailto:okadini2002@gmail.com">okadini2002@gmail.com</a></li>
     </ul>
   </div>
