@@ -39,9 +39,9 @@
 │   │   │-- Heart Disease Prediction.ipynb
 │   │   │-- google_colab_link.txt
 │-- Recommendation_Systems/
-│   │-- Movie_Recommendation_System/
+│   │-- Movie_Recommendation/
 │   │   │-- movies.csv
-│   │   │-- Movie Recommendation System.ipynb
+│   │   │-- Movie_Recommendation_System.ipynb
 │   │   │-- google_colab_link.txt
 │-- README.md
 </code></pre>
