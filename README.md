@@ -25,7 +25,7 @@
     <h2>🛠️ Tech Stack</h2>
     <ul>
       <li><strong>Languages:</strong> Python</li>
-      <li><strong>Libraries & Tools:</strong> NumPy, Pandas, Matplotlib, Scikit-learn</li>
+      <li><strong>Libraries & Tools:</strong> NumPy, Pandas, Matplotlib, Scikit-learn, WordCloud, NLTK</li>
       <li><strong>Notebook Environment:</strong> Jupyter Notebook / Google Colab</li>
     </ul>
   </div>
