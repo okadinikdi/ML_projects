@@ -16,7 +16,7 @@
     <h2>🚀 Projects Included</h2>
     <ul>
       <li>❤️ <strong>Heart Disease Prediction</strong> – Predict the likelihood of heart disease using logistic regression.</li>
-      <li>🎬 <strong>Movie Recommendation System</strong> – Recommend movies to users based on collaborative filtering and similarity measures.</li>
+      <li>🎬 <strong>Movie Recommendation</strong> – Recommend movies to users based on collaborative filtering and similarity measures.</li>
     </ul>
     <p><em>(More projects will be added as I continue learning and building!)</em></p>
   </div>
